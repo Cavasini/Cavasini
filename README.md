@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Cavasini
-- 👀 I’m interested to learn  ...
-- 🌱 I’m currently learning JavaScript...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Matheus Cavasini
 
-<!---
-Cavasini/Cavasini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I love spending my free time playing games, listening to music or chatting with my friends. I'm currently venturing into this vast world of Javascript.
