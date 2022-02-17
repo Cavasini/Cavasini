@@ -1,4 +1,4 @@
 👋 Hi, I'm Matheus Cavasini
-
-
-I love spending my free time playing games, listening to music or chatting with my friends. I'm currently venturing into this vast world of Javascript.
+👀 I’m interested in Python, Javascript, HTML, CSS, React, Node .
+🌱 I’m currently learning React
+💞️ I’m looking to collaborate on community projects
