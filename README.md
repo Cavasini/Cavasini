@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Matheus Cavasin
+# 👋 Hi, I'm Matheus Cavasini
 
 📘 I studying React and React Native
 
