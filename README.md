@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Matheus Cavasini
 
-📘 I studying React and React Native
-
-📅 I have been studying JavaScript for 6 months, and I already know Html and the basics of Css
+📘 I'm studying React and React Native
 
 👀 I’m interested in Mobile development, Pyhton, C# and Back-end
 
