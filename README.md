@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Matheus Cavasini
 
-<img src="https://i.pinimg.com/originals/72/16/ce/7216cea6b07b606b03cf995596dad33c.gif" width="60%" height="60%">
+<img src="https://i.pinimg.com/originals/72/16/ce/7216cea6b07b606b03cf995596dad33c.gif" width="1000">
 
 ## 🌐 Techs
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -10,6 +10,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavasini&layout=compact&theme=github_dark)](https://github.com/Cavasini/github-readme-stats)
