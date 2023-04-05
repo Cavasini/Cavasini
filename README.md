@@ -1,4 +1,4 @@
-<div align="center">
+
   
 # 👋 Hi, I'm Matheus Cavasini
 
@@ -14,4 +14,4 @@
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavasini&layout=compact&theme=github_dark)](https://github.com/Cavasini/github-readme-stats)
 ##
-</div>
+
