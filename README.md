@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matheus Cavasini
 
-<img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="1000">
+<img src="https://i.pinimg.com/originals/72/16/ce/7216cea6b07b606b03cf995596dad33c.gif" width="558" height="336" align="center">
 
 ## 🌐 Techs
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
