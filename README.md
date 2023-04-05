@@ -10,5 +10,5 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavasini&layout=compact&theme=city_light)](https://github.com/Cavasini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavasini&layout=compact&theme=github_dark)](https://github.com/Cavasini/github-readme-stats)
 ##
