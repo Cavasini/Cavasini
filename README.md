@@ -9,5 +9,8 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+###
 ![Cavasini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cavasini&theme=city_lights&show_icons=true)
+###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavasini&layout=compact&theme=city_light)](https://github.com/Cavasini/github-readme-stats)
+###
