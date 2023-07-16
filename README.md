@@ -2,7 +2,6 @@
   
 # 👋 Hi, I'm Matheus Cavasini
 
-<img src="https://i.pinimg.com/originals/72/16/ce/7216cea6b07b606b03cf995596dad33c.gif" width="1000">
 
 ## 🌐 Techs
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
