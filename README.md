@@ -1,9 +1,13 @@
-<div align="center">  
-
 # 👋 Hi, I'm Matheus Cavasini
 
 
+Hello there! I'm a student, an 18-year-old from Brazil, currently pursuing a degree in Software Engineering at FIAP. I'm passionate about the world of technology and committed to honing my skills in software development.
+
+Feel free to explore my GitHub repositories and projects. If you have any questions or collaboration ideas, don't hesitate to reach out. Let's code and innovate together! 🚀
+
 ## 🌐 Techs
+<div align="center"> 
+  
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -20,6 +24,6 @@
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cavasini&show_icons=true&count_private=true&title_color=6b0ccf4&icon_color=6b0ccf4&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavasini&layout=compact&title_color=6b0ccf4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavasini&layout=compact&title_color=6b0ccf4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
-
+</div>
