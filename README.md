@@ -18,18 +18,8 @@
 ![dotnet](https://img.shields.io/badge/dotnet-005C84?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 
 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cavasini&show_icons=true&count_private=true&title_color=6b0ccf4&icon_color=6b0ccf4&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
 
-
-
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cavasini&theme=radical&mode=weekly" />
-<p/>
-<p><img width=40% style="margin-top:10px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavasini&layout=compact&title_color=6b0ccf4&text_color=fff&bg_color=0d1117&border_color=ffff"/></p>
- </div>
- 
- &nbsp;
- &nbsp;
-</div>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavasini&layout=compact&title_color=6b0ccf4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
 
