@@ -22,7 +22,7 @@ Feel free to explore my GitHub repositories and projects. If you have any questi
 ![dotnet](https://img.shields.io/badge/dotnet-005C84?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cavasini&show_icons=true&count_private=true&title_color=6b0ccf4&icon_color=6b0ccf4&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cavasini&show_icons=true&count_private=true&title_color=6b0ccf4&icon_color=6b0ccf4&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavasini&layout=compact&title_color=6b0ccf4&icon_color=6b0ccf4&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
 
